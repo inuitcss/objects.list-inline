@@ -1,12 +1,12 @@
 {
-  "name": "inuit-inline-list",
-  "version": "0.1.0",
-  "homepage": "https://github.com/inuitcss/objects.inline-list",
+  "name": "inuit-list-inline",
+  "version": "0.2.0",
+  "homepage": "https://github.com/inuitcss/objects.list-inline",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>"
   ],
   "description": "A simple object to remove bullets and indents from lists",
-  "main": "_objects.inline-list.scss",
+  "main": "_objects.list-inline.scss",
   "keywords": [
     "inuitcss",
     "oocss",
