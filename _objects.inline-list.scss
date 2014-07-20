@@ -1,0 +1,22 @@
+/*------------------------------------*\
+    #INLINE-LIST
+\*------------------------------------*/
+
+/**
+ * The inline-list object simply displays a list of items in one line.
+ */
+
+// Predefine the variables below in order to alter and enable specific features.
+$inuit-inline-list-namespace: $inuit-namespace !default;
+
+.#{$inuit-inline-list-namespace}inline-list,
+%#{$inuit-inline-list-namespace}inline-list {
+    margin:  0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        display: inline-block;
+    }
+
+}
