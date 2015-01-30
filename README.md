@@ -21,6 +21,11 @@ module via a Git Submodule, or copy and paste.
 
     $ bower install --save inuit-list-inline
 
+### Install using npm:
+
+    $ npm install --save inuit-list-inline
+
+
 Once installed, `@import` into your project in its Objects layer:
 
     @import "bower_components/inuit-list-inline/objects.list-inline";
