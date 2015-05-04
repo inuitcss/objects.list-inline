@@ -1,6 +1,6 @@
 {
   "name": "inuit-list-inline",
-  "version": "0.2.2",
+  "version": "0.3.2",
   "description": "A simple object to remove bullets and indents from lists",
   "main": "_objects.list-inline.scss",
   "repository": {
